@@ -6,15 +6,15 @@
 		We present you need to perform:
 
 #### Make several ships:
-		You'll have to be careful because you must make sure not put a boat on 
-		another boat on the game board. We also want to make sure you balance 
+		You'll have to be careful because you must make sure not put a ship on 
+		another ship on the game board. We also want to make sure you balance 
 		the board size to the number of ships so that the game is still 
 		challenging and fun to play.
 
 #### Make ships of different sizes:
-		It's more complicated than it looks. All parts of the boat must be 
+		It's more complicated than it looks. All parts of the ship must be 
 		placed vertically or horizontally and you have to make sure you do not 
-		accidentally put a boat off the board, and also where you placed one can 
+		accidentally put a ship off the board, and also where you placed one can 
 		do not put another
 
 #### Create your own game for one and two players:
