@@ -1,5 +1,5 @@
 
-# Naval Battle Extension
+# Extension Battleship
 		The goal of this project is to add things to your program naval battle! 
 		to make it more complex and fun to play.
 	
