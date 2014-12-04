@@ -1,41 +1,40 @@
 
-# Ampliación Batalla Naval
-		La meta en este proyecto es agregar cosas a tu programa de ¡batalla naval! 
-		para poder hacerlo más complejo y divertido para jugar. 
+# Naval Battle Extension
+		The goal of this project is to add things to your program naval battle! 
+		to make it more complex and fun to play.
 	
-		Te presentamos lo que debes realizar:
+		We present you need to perform:
 
-####Haz varios barcos: 
-		Tendrás que tener cuidado porque debes asegurarte de que no pongas un barco 
-		sobre otro en el tablero de juego. También querrás asegurarte de que equilibras 
-		el tamaño del tablero con la cantidad de barcos de manera que el juego aún 
-		sea un reto y divertido de jugar.
+#### Make several ships:
+		You'll have to be careful because you must make sure not put a boat on 
+		another boat on the game board. We also want to make sure you balance 
+		the board size to the number of ships so that the game is still 
+		challenging and fun to play.
 
-####Haz barcos de diferentes tamaños:
-		Es más complicado de lo que parece. Todas las partes del barco tienen que 
-		colocarse vertical u horizontalmente y tendrás que asegurarte de que no 
-		ubiques accidentalmente un barco fuera del tablero, así mismo donde ya
-		colocaste uno no podrás poner otro.
+#### Make ships of different sizes:
+		It's more complicated than it looks. All parts of the boat must be 
+		placed vertically or horizontally and you have to make sure you do not 
+		accidentally put a boat off the board, and also where you placed one can 
+		do not put another
 
-####Crea tu propio juego para uno y  dos jugadores:
-		Recuerda que el jugador puede elegir si jugar solo o con un compañero,
-		Debes de crear un menú atractivo y encontrar maneras de que los jugadores,
-		quieran seguir jugando mas y mas!
+#### Create your own game for one and two players:
+		Remember that the player can choose to play alone or with a partner 
+		must create an attractive menu and find ways for players wanting to 
+		play more and more!
 
+# Requirements to Comply:
 
-#Requerimientos a Cumplir:
-
-		• Deberás de utilizar clases para la creación del juego.
-		• Crea un menú con diccionarios donde des las instrucciones del juego y las 
-		  opciones que el usuario puede escoger.
-		• Deberás de limpiar la pantalla cada vez que el jugador inicie su turno y 
-		  solo mostrar el tablero del jugador activo. De tal manera que pueda ver:
-			○ Su tablero con las posiciones de sus barcos y los tiros que le han hecho.
-			○ El tablero enemigo con los barcos hundidos o tiros errores realizados.
-			○ El estatus de los eventos que a realizado el usuario:
-				◘ Mostrar el nombre de usuario.
-				◘ Numero de Turnos.
-				◘ Cuantos barcos a hundido y cuantos faltan por hundir.
+		• You must use classes for creating the game.
+		• Create a menu where you use dictionaries where you show the game instructions and
+		  options the user can choose.
+		• You must clean the screen each time the player begins his turn and
+		  show only active player board. So you can see:
+			○ Your board with the positions of their ships and shots have been made.
+			○ The board enemy ships sunk or errors made shots.
+			○ The status of events that made the user:
+				◘ Show username.
+				◘ Number of Turns.
+				◘ How many ships sunk and few left to sink.
 
 
 # Concepts Required
@@ -61,14 +60,13 @@
 #I/O
 
 ####Input Values
-		1. Toma en cuenta la validación de los datos ingresados por el usuario,
-		   Ten mucho cuidado porque un usuario puede llegar a cometar muchos errores.
-		2. Puedes utilizar palabras o números para que el usuario elija sus opciones.
+		1. Takes note validating data entered by the user, be careful because 
+		   a user can get to make many mistakes.
+		2. You can use words or numbers for the user to choose their options.
 
 ####Output messages
-
-		1. Recuerde mostrar ayudas al usuario cuando realicé una acción 
-		   errónea en su aplicación.
+		1. Remember to show support you when I performed an action wrong 
+		   in your application.
 
 
 
