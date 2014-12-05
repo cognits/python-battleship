@@ -22,7 +22,7 @@
 		must create an attractive menu and find ways for players wanting to 
 		play more and more!
 
-# Requirements to Comply:
+#### Requirements to Comply:
 
 		• You must use classes for creating the game.
 		• Create a menu where you use dictionaries where you show the game instructions and
@@ -37,7 +37,7 @@
 				◘ How many ships sunk and few left to sink.
 
 
-# Concepts Required
+#### Concepts Required
 		1.  Operators.
 		2.  I/O.
 		3.  Print.
