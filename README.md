@@ -47,7 +47,7 @@
 		7.  Class and Object.
 		8.  If Sentences.
 		9.  Recursivity.
-		10. While and Ford Loops.
+		10. While and For Loops.
 		11. Functions.
 		12. Procedures.
 		13. Dictionary
